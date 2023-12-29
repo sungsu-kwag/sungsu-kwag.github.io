@@ -36,7 +36,7 @@ Experience
 
 ------
 
-> <img src="../files/mc2.jpeg" style="width:50px;"> <b>University of Maryland, College Park</b> <br> <font size="3.5"> Graduate Assistant, <a href="https://cyber.umd.edu/">Maryland Cybersecurity Center</a> </font> <br> <font size="3" face="WildWest">(Advisor: Tudor Dumitras)</font>
+> <img src="../files/mc2.jpeg" style="width:50px;"> <b>University of Maryland, College Park</b> <br> <font size="3.5"> Graduate Assistant, <a href="https://cyber.umd.edu/">Maryland Cybersecurity Center</a> </font> <br> <font size="3" face="WildWest">(Advisor: Prof. Tudor Dumitras)</font>
 > <font size="2.5"> <details> <summary>Working on...</summary> - To Be Updated... </details> </font>
 > <h4 align="right"> College Park, Maryland, United States / Aug, 2023 - Present </h4>
 >
@@ -44,7 +44,7 @@ Experience
 > <font size="2.5"> <details> <summary>Worked on...</summary> - Research on Continous Multi-Factor Authentication (CMFA) of mobile device <br/> - Research on Voice Assistant security against voice spoofing attack </details> </font>
 > <h4 align="right"> Seoul, South Korea / Mar, 2018 - Jul, 2023 </h4>
 >
-> <img src="../files/Sungkyunkwan_University_seal.svg.png" style="width:50px;"> <b>Sungkyunkwan University (SKKU)</b> <br/> <font size="3.5">  Undergraduate Research Assistant, <a href="https://seclab.skku.edu/">Security Lab (seclab) </a> </font> <br> <font size="3" face="WildWest">(Advisor: Hyoungshick Kim)</font> <br>
+> <img src="../files/Sungkyunkwan_University_seal.svg.png" style="width:50px;"> <b>Sungkyunkwan University (SKKU)</b> <br/> <font size="3.5">  Undergraduate Research Assistant, <a href="https://seclab.skku.edu/">Security Lab (seclab) </a> </font> <br> <font size="3" face="WildWest">(Advisor: Prof. Hyoungshick Kim)</font> <br>
 > <font size="2.5"> <details> <summary>Worked on...</summary> - Research on practical smudge attack of "Android Pattern Lock" system </details> </font>
 > <h4 align="right"> Seoul (Suwon), South Korea / Mar, 2014 - Sep, 2015 </h4>
 >
