@@ -40,7 +40,7 @@ Experience
 > <font size="2.5"> <details> <summary>Working on...</summary> - To Be Updated... </details> </font>
 > <h4 align="right"> College Park, Maryland, United States / Aug, 2023 - Present </h4>
 >
-> <img src="../files/720_600_1.avif" style="width:50px;"> <b>Samsung Electronics</b> <br> <font size="3.5"> Software Engineer, Security & Privacy Team, <a href="https://research.samsung.com/">Samsung Research</a> </font>
+> <img src="../files/720_600_1.avif" style="width:50px;"> <b>Samsung Electronics</b> <br> <font size="3.5"> Software Engineer, Security & Privacy Team, <a href="https://research.samsung.com/">Samsung Research</a> </font> <br> <font size="3" face="WildWest">(Advisor: Dr. Jun Ho Huh)</font> <br>
 > <font size="2.5"> <details> <summary>Worked on...</summary> - Research on Continous Multi-Factor Authentication (CMFA) of mobile device <br/> - Research on Voice Assistant security against voice spoofing attack </details> </font>
 > <h4 align="right"> Seoul, South Korea / Mar, 2018 - Jul, 2023 </h4>
 >
